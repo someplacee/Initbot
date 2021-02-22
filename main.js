@@ -3,9 +3,6 @@ const app = electron.app
 
 require('update-electron-app')()
 
-const { app, autoUpdater, dialog } = require('electron')
-
-
 const BrowserWindow = electron.BrowserWindow
 
 let mainWindow
