@@ -1,0 +1,24 @@
+{
+  "name": "Initbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/someplacee/Initbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/someplacee/Initbot/issues"
+  },
+  "homepage": "https://github.com/someplacee/Initbot#readme",
+  "dependencies": {
+    "electron": "^11.3.0",
+    "update-electron-app": "^2.0.1"
+  }
+}
